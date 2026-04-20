@@ -1,7 +1,7 @@
 # 🎬 Snipzo Reel AI
 
 <p align="center">
-<b>Create stunning reels from images using AI-generated voice</b><br>
+<b>Flask app which Creates stunning reels from images using AI-generated voice</b><br>
 A mini reel maker powered by ElevenLabs 🎤 + FFmpeg 🎬
 </p>
 
