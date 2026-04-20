@@ -54,7 +54,7 @@ This project uses the ElevenLabs API.
 
 Create a `.env` file in the root folder:
 
-```env id="8t6z5r"
+```env
 ELEVENLABS_API_KEY=your_api_key_here
 ```
 
@@ -77,7 +77,6 @@ ELEVENLABS_API_KEY=your_api_key_here
 </p>
 
 <p align="center">
-<img src="sample_outputs/screenshot3.png" width="400"/>
 <img src="sample_outputs/screenshot4.png" width="400"/>
 </p>
 
@@ -87,14 +86,14 @@ ELEVENLABS_API_KEY=your_api_key_here
 
 <p align="center">
   <a href="sample_outputs/reel1.mp4">
-    <img src="sample_outputs/screenshot1.png" width="500"/>
+    <img src="sample_outputs/screenshot5.png" width="500"/>
   </a><br>
   ▶️ Reel 1
 </p>
 
 <p align="center">
   <a href="sample_outputs/reel2.mp4">
-    <img src="sample_outputs/screenshot3.png" width="500"/>
+    <img src="sample_outputs/screenshot6.png" width="500"/>
   </a><br>
   ▶️ Reel 2
 </p>
@@ -107,7 +106,7 @@ Click on the images above to watch the reels
 
 ## ⚙️ Setup
 
-```bash id="2e5s7r"
+```bash
 git clone https://github.com/your-username/Snipzo-Reel-AI.git
 cd Snipzo-Reel-AI
 pip install -r requirements.txt
@@ -117,7 +116,7 @@ pip install -r requirements.txt
 
 ## ▶️ Run
 
-```bash id="n2h4xy"
+```bash
 python main.py
 ```
 
@@ -125,7 +124,7 @@ python main.py
 
 ## 📂 Project Structure
 
-```id="7y6k1d"
+```
 Snipzo-Reel-AI/
 │
 ├── main.py
