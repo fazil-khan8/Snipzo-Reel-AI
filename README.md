@@ -5,6 +5,10 @@
 A mini reel maker powered by ElevenLabs 🎤 + FFmpeg 🎬
 </p>
 
+<p align="center">
+  <img src="sample_outputs/demo.gif" width="600"/>
+</p>
+
 ---
 
 ## 🚀 Overview
@@ -54,7 +58,7 @@ This project uses the ElevenLabs API.
 
 Create a `.env` file in the root folder:
 
-```env
+```env id="nrf1fx"
 ELEVENLABS_API_KEY=your_api_key_here
 ```
 
@@ -73,7 +77,7 @@ ELEVENLABS_API_KEY=your_api_key_here
 
 <p align="center">
 <img src="sample_outputs/screenshot1.png" width="400"/>
-<img src="sample_outputs/screenshot2.png" width="400"/>
+<img src="sample_outputs/screenshot3.png" width="400"/>
 </p>
 
 <p align="center">
@@ -106,7 +110,7 @@ Click on the images above to watch the reels
 
 ## ⚙️ Setup
 
-```bash
+```bash id="i7x0b5"
 git clone https://github.com/your-username/Snipzo-Reel-AI.git
 cd Snipzo-Reel-AI
 pip install -r requirements.txt
@@ -116,7 +120,7 @@ pip install -r requirements.txt
 
 ## ▶️ Run
 
-```bash
+```bash id="49v2mi"
 python main.py
 ```
 
@@ -124,7 +128,7 @@ python main.py
 
 ## 📂 Project Structure
 
-```
+```id="8s1gnt"
 Snipzo-Reel-AI/
 │
 ├── main.py
@@ -166,3 +170,4 @@ This helps track the workflow and debug issues during development.
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
